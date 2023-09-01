@@ -31,9 +31,9 @@ Welcome to the Random Meme Generator project! This fun and interactive web appli
 
 - [**index.html**](index.html): This HTML file serves as the main entry point for the web application. It defines the structure of the user interface and contains the content sections and buttons for generating memes, jokes, quotes, and riddles.
 
-- [**style.css**](style.css): The CSS file, `style.css`, is responsible for styling the entire web application. It defines the visual presentation, including colors, fonts, and layout, to ensure an aesthetically pleasing user experience.
+- [**Style.css**](Style.css): The CSS file, `style.css`, is responsible for styling the entire web application. It defines the visual presentation, including colors, fonts, and layout, to ensure an aesthetically pleasing user experience.
 
-- [**script.js**](script.js): The JavaScript file, `script.js`, provides the interactive functionality of the Random Meme Generator. It includes functions for generating and displaying random content when users click on the various action buttons. It also manages the clearing of content when the "Clear" button is pressed.
+- [**Script.js**](Script.js): The JavaScript file, `script.js`, provides the interactive functionality of the Random Meme Generator. It includes functions for generating and displaying random content when users click on the various action buttons. It also manages the clearing of content when the "Clear" button is pressed.
 
 
 ## License
