@@ -27,14 +27,14 @@ Welcome to the Random Meme Generator project! This fun and interactive web appli
    - **Riddles**: Click "Riddle Me" to challenge yourself with a riddle. Use "Reveal Riddle Answer" to uncover the answer.
 
 4. Have fun and share your favorite memes, jokes, quotes, or riddles with friends and colleagues!
-
 ## Project Files
 
-- **index.html**: This HTML file serves as the main entry point for the web application. It defines the structure of the user interface and contains the content sections and buttons for generating memes, jokes, quotes, and riddles.
+- [**index.html**](index.html): This HTML file serves as the main entry point for the web application. It defines the structure of the user interface and contains the content sections and buttons for generating memes, jokes, quotes, and riddles.
 
-- **style.css**: The CSS file, `style.css`, is responsible for styling the entire web application. It defines the visual presentation, including colors, fonts, and layout, to ensure an aesthetically pleasing user experience.
+- [**style.css**](style.css): The CSS file, `style.css`, is responsible for styling the entire web application. It defines the visual presentation, including colors, fonts, and layout, to ensure an aesthetically pleasing user experience.
 
-- **script.js**: The JavaScript file, `script.js`, provides the interactive functionality of the Random Meme Generator. It includes functions for generating and displaying random content when users click on the various action buttons. It also manages the clearing of content when the "Clear" button is pressed.
+- [**script.js**](script.js): The JavaScript file, `script.js`, provides the interactive functionality of the Random Meme Generator. It includes functions for generating and displaying random content when users click on the various action buttons. It also manages the clearing of content when the "Clear" button is pressed.
+
 
 ## License
 
