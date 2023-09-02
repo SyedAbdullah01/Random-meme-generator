@@ -36,10 +36,6 @@ Welcome to the Random Meme Generator project! This fun and interactive web appli
 - [**Script.js**](Script.js): The JavaScript file, `script.js`, provides the interactive functionality of the Random Meme Generator. It includes functions for generating and displaying random content when users click on the various action buttons. It also manages the clearing of content when the "Clear" button is pressed.
 
 
-## License
-
-This project is not licensed, which means there are no specific usage restrictions. However, please be mindful of respecting the content sources and copyrights if you plan to use this project for any purpose beyond personal use.
-
 ## Acknowledgments
 
 This project was independently created with the goal of spreading smiles and positivity. It draws inspiration from personal creativity and the joy of coding. Thank you for using the Random Meme Generator!
