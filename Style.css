@@ -1,17 +1,22 @@
+/* Apply 'Ubuntu' font to all elements */
 * {
   font-family: "Ubuntu", sans-serif;
 }
+
+/* Styling for the body */
 body {
   background-color: rgb(204, 204, 185);
   color: #2b2b2b;
   font-family: "Ubuntu", sans-serif;
 }
 
+/* Define main container layout */
 main {
   display: flex;
   flex-direction: row;
 }
 
+/* Styling for images */
 img {
   border: 1px solid #666666;
   border-radius: 5px;
@@ -19,28 +24,34 @@ img {
   width: 100%;
 }
 
+/* Styling for paragraphs */
 p {
   color: #666666;
 }
 
+/* Styling for hyperlinks */
 a {
   color: #1f7ced;
 }
 
+/* Hover effect for hyperlinks */
 a:hover {
   opacity: 0.8;
 }
 
+/* Styling for the main content section */
 .content {
   width: 65%;
   padding-left: 30px;
   padding-right: 20px;
 }
 
+/* Limit the width of paragraphs within the content section */
 .content p {
   max-width: 80%;
 }
 
+/* Styling for the sidebar section */
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -51,6 +62,7 @@ a:hover {
   height: 85vh;
 }
 
+/* Styling for buttons */
 button {
   font-weight: 500;
   background-color: #b58e7e;
@@ -64,6 +76,7 @@ button {
   margin-bottom: 10px;
 }
 
+/* Hover effect for buttons */
 button:hover {
   background-color: #9f7a6a;
   cursor: pointer;
