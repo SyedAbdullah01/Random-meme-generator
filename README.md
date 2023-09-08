@@ -7,7 +7,6 @@ Welcome to the Random Meme Generator project! This fun and interactive web appli
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Project Files](#project-files)
-- [Acknowledgments](#acknowledgments)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -52,7 +51,3 @@ The Random Meme Generator was developed using the following technologies and too
 - **JavaScript**: Implemented the interactive functionality and logic of the Random Meme Generator.
 - **GitHub**: The codebase is hosted and shared on GitHub.
 - **Netlify**: The web application is hosted and deployed using Netlify, providing a platform for easy accessibility via the provided link.
-
-## Acknowledgments
-
-This project was independently created with the goal of spreading smiles and positivity. It draws inspiration from personal creativity and the joy of coding. Thank you for using the Random Meme Generator!
